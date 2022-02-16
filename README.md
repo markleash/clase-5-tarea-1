@@ -1,2 +1,2 @@
-# clase-5-tarea-1
- Primer tarea de la Clase 5 de rArgentinaPrograma
+# clase-5-tareas
+Tareas de la Clase 5 de rArgentinaPrograma
